@@ -1,4 +1,4 @@
-# rewards
+# Rewards
 
 ## Logo
 https://designer.gravit.io/?d=S1bCnhAZQ
